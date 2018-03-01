@@ -1,5 +1,6 @@
 /*In practice, better to make class variables private rather than public
-* If you want to change the value of a linked list object from main routine by subroutines, especially when you * need to change the head, you MUST call by reference
+* If you want to change the value of a linked list object from main routine by subroutines, especially when you 
+* need to change the head, you MUST call by reference
 */
 
 #include <iostream>
